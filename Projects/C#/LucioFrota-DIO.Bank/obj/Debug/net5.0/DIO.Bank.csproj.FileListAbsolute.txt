@@ -1,0 +1,16 @@
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\dev\DIOAvanade\Desafios\cSharp\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
